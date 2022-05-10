@@ -54,7 +54,7 @@ public class Calculator {
                 }
         return Arrays.toString(array);
     }
-// Repository Link: https://github.com/gwynnethg/CalculatorActivity.git
+// Repository Link: https://github.com/gwynnethg/ecpe205-unit-test.git
     //Gwynneth B. Gonzaga
 }
 
